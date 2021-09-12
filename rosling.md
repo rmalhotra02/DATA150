@@ -1,4 +1,4 @@
-## 1.What was Hans Rosling's observation regarding his comparative survey of students at the Karolinska Institute and the Chimpanzees (as well as the faculty who decide the Nobel Prize)? What is the significance of the results from his informal survey on preconceived ideas?
+## 1. What was Hans Rosling's observation regarding his comparative survey of students at the Karolinska Institute and the Chimpanzees (as well as the faculty who decide the Nobel Prize)? What is the significance of the results from his informal survey on preconceived ideas?
 
 ## 2. What type of change took place in Asia that preceded economic growth? Why was this type of change significant?
 
