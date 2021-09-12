@@ -1,8 +1,11 @@
-1. What did Hans Rosling say about his servey of the new students at the Karolinska Institute and how they compared with the results from the chimpanzees(as well as the faculty who decide the Nobel?) What is the significance of the results from his informal survey on preconceived ideas?
-  In a pre-test at an undergraduate global health course at Karolinska Institute in Sweden, Hans Rosling asked students which countries had the highest child mortality rates. He found that students often answered only 1 question correctly, quickly discovering that even a chimpanzee could test better. He believes that this wasn’t because of ignorance but because of preconceived ideas people had of the countries that were listed, a few being Sri Lanka and Vietnam. He found that his students felt that the world was a We and Them (western world- long life in small family- and third world- short life in a large family-). To better understand and analyze the data, he created a graph with the different countries and compared fertility rates to life expectancy at birth. The graph first shows data from 1962, showing that countries with lower fertility rates had longer life expectancies(typically developed countries), while countries with higher fertility rates has shorter life expectancies(typically developing countries). He continues showing the data as time progresses, all the countries slowly moving to lower fertility rates and longer life expectancies by 2003 (a new world).
+## 1.What was Hans Rosling's observation regarding his comparative survey of students at the Karolinska Institute and the Chimpanzees (as well as the faculty who decide the Nobel Prize)? What is the significance of the results from his informal survey on preconceived ideas?
 
-2. What type of change took place in Asia preceded economic growth?
-3. In accordance with Hans Rosling's TED Talk, what is the relationship between child mortality and GDP per capita?
-4. In terms of income distribution, how has the world changed from 1962 until 2003?
-5. What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions?
-6. In your opinion, why was Hans Rosling's work with the Gapminder 
+## 2. What type of change took place in Asia that preceded economic growth? Why was this type of change significant?
+
+## 3. In accordance with Hans Rosling’s TED talk, what is the relationship between child mortality and GDP per capita?
+
+## 4. In terms of income distribution, how has the world changed from 1962 until 2003?
+
+## 5. What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?
+
+## 6. In your opinion, why was Hans Rosling’s work with the Gapminder project significant in contributing towards advancing the intersection of data science and global human development?
