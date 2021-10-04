@@ -9,5 +9,5 @@
 6. Sept. 30th - Class Essay [Gapminder Data](gapminder.html)
 
 ### Formal Assignments
-1. [Annotated Bibliography](...)
+1. [Annotated Bibliography](bibliography.html)
 
