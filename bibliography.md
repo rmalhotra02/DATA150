@@ -3,8 +3,7 @@
 ### Professor. Frazier
 ### Human Development and Data Science
 ### 09/03/2021
-
-#### Word count: 1610
+### Word count: 1610
 
 #### Article 1: Mapping poverty using mobile phone and satellite data
 Authors: Jessica E. Steele, Pål Roe Sundsøy, Carla Pezzulo, Victor A. Alegana, Tomas J. Bird, Joshua Blumenstock, Johannes Bjelland, Kenth Engø-Monsen, Yves-Alexandre de Montjoye, Asif M. Iqbal, Khandakar N. Hadiuzzaman, Xin Lu, Erik Wetter, Andrew J. Tatem and Linus Bengtsson
