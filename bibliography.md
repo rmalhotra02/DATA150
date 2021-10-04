@@ -1,12 +1,12 @@
-### Annotated Bibliography: Poverty Assessment and Analysis
-#### Rhea Malhotra
-#### Professor. Frazier
-#### Human Development and Data Science
-#### 09/03/2021
+## Annotated Bibliography: Poverty Assessment and Analysis
+### Rhea Malhotra
+### Professor. Frazier
+### Human Development and Data Science
+### 09/03/2021
 
 #### Word count: 1610
 
-##### Article 1: Mapping poverty using mobile phone and satellite data
+#### Article 1: Mapping poverty using mobile phone and satellite data
 Authors: Jessica E. Steele, Pål Roe Sundsøy, Carla Pezzulo, Victor A. Alegana, Tomas J. Bird, Joshua Blumenstock, Johannes Bjelland, Kenth Engø-Monsen, Yves-Alexandre de Montjoye, Asif M. Iqbal, Khandakar N. Hadiuzzaman, Xin Lu, Erik Wetter, Andrew J. Tatem and Linus Bengtsson
 Reference: Steele, Jessica E., et al. “Mapping Poverty Using Mobile Phone and Satellite Data.” Journal of The Royal Society Interface, vol. 14, no. 127, 2017, p. 20160690., doi:10.1098/rsif.2016.0690. 
 Annotation:
@@ -14,14 +14,14 @@ The authors’ main ideas in this work are how public and private data for low- 
 
 This article relates to Amartya Sen’s definition of human development because they both discuss how analyzing poverty can enhance our freedoms and “allow people to lead lives that they have reason to live.” The dimension of human development being addressed by the authors here is poverty assessment and analysis and the development goals are to measure, target, and end poverty in all dimensions. The geospatial datasets used in the study were CDR data and RS data. Poverty assessment and analysis have grown considerably with the utilization of CDR and RS data. The geospatial methods used by the authors in this study were estimating and monitoring poverty rates at a high spatial resolution and supporting traditional methods of data collection.
 
-##### Article 2: Estimating Poverty in a Fragile Context : The High Frequency Survey in South Sudan
+#### Article 2: Estimating Poverty in a Fragile Context : The High Frequency Survey in South Sudan
 Authors: Utz Pape and Luca Parisotto 
 Reference: “Pape, Utz; Parisotto, Luca. 2019. Estimating Poverty in a Fragile Context : The High Frequency Survey in South Sudan. Policy Research Working Paper;No. 8722. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/31190 License: CC BY 3.0 IGO.”
 Annotation: This research paper is about poverty estimation in South Sudan. The paper introduces this topic by discussing the rich and difficult history of Sudan and the reasons for their poverty. After the Civil War broke out in 2013, the South Sudanese conflict continued to escalate, resulting in a humanitarian crisis that displaced a third of their population. Very little was known about the welfare and wellbeing of the country during its independence in 2011. The last survey measuring poverty and consumption was conducted as far back as 2009. The growth and escalation of the civil war also posed a serious challenge to the planning of fieldwork. For this reason, the surveys capitalized on technology and methodological innovations to collect reliable data and provide accurate poverty estimates. To bridge this gap in data, the High-Frequency South Sudan Survey (HFS) implemented by the National Bureau of Statistics conducted several surveys across several states, measuring various characteristics such as consumption, poverty, welfare, currency devaluation, and inflation.  As a country going through a period of upheaval, it displayed all the characteristics of a war economy, with soaring inflation and rapid currency devaluation. Due to this, poverty has risen to extremely high levels. The paper continues by stating that the HFS in 2016 estimated that 4 out of 5 people from several states were living below the international poverty line of US $1.90 PPP. Furthermore, in 2017 South Sudan ranked 187 out of 189 countries in the Human Development Index with a 57-year life expectancy. To continue to fill the gaps in data of poverty in inaccessible areas, additional data was captured through satellite imagery and other geospatial characteristics.  
 
 This article relates to Amartya Sen’s definition of human development because both discuss using the analysis of data to enhance our quality of life and freedoms. The study discusses using data to alleviate poverty, poverty being an unfreedom Amartya Sen mentions in his book, “Development as Freedom.” By acquiring information from these regions of poverty, policies can be made to allow these developing countries to reach developmental freedom. The dimension being addressed by the authors’ research is poverty assessment and analysis. The development goals of this research are to target and alleviate poverty and providing those in poverty with the resources they need. The geospatial datasets used were satellite data and the High-Frequency South Sudan Survey. The geospatial methods used by the authors in this study were utilizing the Rapid Consumption Methodology combined with geo-spatial data. The development pattern/process being explored in this paper was the estimation and spread of poverty in South Sudan. 
 
-##### Article 3: Estimation of Poverty in Somalia Using Innovative Methodologies
+#### Article 3: Estimation of Poverty in Somalia Using Innovative Methodologies
 Authors: Pape,Utz Johann
 Wollburg,Philip Randolph
 Reference: “Pape, Utz; Wollburg, Philip. 2019. Estimation of Poverty in Somalia Using Innovative Methodologies. Policy Research Working Paper;No. 8735. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/31267 License: CC BY 3.0 IGO.”
@@ -29,7 +29,7 @@ Annotation: This paper discusses the estimation of poverty in Somalia. It begins
 
 This paper relates to Amartya Sen’s definition of human development. The production of security assessment maps and poverty maps would allow Somalia and its citizens a better quality of life. With these maps, we can target the regions with high poverty and provide aid, benefits, and education to reduce the poverty rates. The dimension of human development being addressed by the authors’ research in this paper is poverty assessment and analysis. The development goals of the authors in this paper were to refine the models to predicting poverty patterns through satellite imagery by including predictors with higher spatial frequencies and building footprints. The geospatial datasets used by the authors in this study were satellite imagery and the Somali High-Frequency Survey, while the geospatial methods include sampling strategies using micro-listing and questionnaire design.
 
-##### Article 4: Mobile phones can create high-resolution poverty map
+#### Article 4: Mobile phones can create high-resolution poverty map
 Authors: Unknown
 Reference: Service, Indo-Asian News. “Mobile Phones Can Create High-Resolution Poverty Map.” India Today, 9 Feb. 2017, www.indiatoday.in/technology/news/story/mobile-phones-can-create-high-reolution-poverty-map-959791-2017-02-09. 
 Annotation: The author’s main idea in this article is how mobile phones can create high-resolution poverty maps in India. Researchers from the University of Southampton and the Flowminder Foundation found that when combining mobile data and geospatial data from satellites, they were able to create poverty predictions with significant advantages when compared to those made from traditional sources. The article continues by saying that census and household surveys are often used as data sources to estimate poverty rates. However, they aren’t updated regularly, especially in low-income countries.  Since information on mobile phones is everchanging and constantly updating, it can track changes on an ongoing basis. Jessica Steele, the author of the study, states that when paired with satellite data, it can provide a more dynamic view of poverty and its geographic spread. Mobile phones send information to receiving towers, giving an approximate location of the mobile user. It also contains information about data usage, number of texts sent and received, times of calls and their durations, etc. This anonymized data helps build a picture of poverty. As we learned from the previous studies, satellite data can provide significant information about living conditions in rural areas. However, in tightly packed cities it becomes more challenging. It’s the reverse for mobile phones, with bigger cities providing more information. The researchers in this study also noted that there are individuals, the poorest ones, who may not own a mobile phone. Despite this, they were still able to find distinct differences between the lower-income and higher-income areas.
