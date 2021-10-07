@@ -7,6 +7,7 @@
 4. Sept. 23rd - Informal Writing Assignment [Complexity and Data Science](essay.html)
 5. Sept. 28th - Class Essay [Introduction](intro.html)
 6. Sept. 30th - Class Essay [Gapminder Data](gapminder.html)
+7. Oct. 7th - Class Essay [Our World in Data](roser.html)
 
 ### Formal Assignments
 1. [Annotated Bibliography](bibliography.html)
