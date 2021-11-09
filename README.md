@@ -12,7 +12,7 @@
 9. Oct. 21st - Class Essay [Evidence of Abundant Progress](progress_essay.html)
 10. Oct. 28th - Class Essay [What is Data Science?](datascience_essay.html)
 11. Nov. 2nd - Class Essay [Human Development Index](index.html)
-12. Nov. 4th - Class Essat [Data Science Topics](topics.html)
+12. Nov. 4th - Class Essay [Data Science Topics](topics.html)
 
 ### Formal Assignments
 1. [Annotated Bibliography](bibliography.html)
