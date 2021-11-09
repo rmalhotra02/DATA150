@@ -11,8 +11,9 @@
 8. Oct. 12th - Class Essay [Belt and Road Initiative](essay2.html)
 9. Oct. 21st - Class Essay [Evidence of Abundant Progress](progress_essay.html)
 10. Oct. 28th - Class Essay [What is Data Science?](datascience_essay.html)
-11. Nov. 2nd - Class Essay [Human Development Index](index.html)
+11. Nov. 2nd - Class Essay [Human Development Index](hdindex.html)
 12. Nov. 4th - Class Essay [Data Science Topics](topics.html)
+13. Nov. 9th - Class Essay [Data and Privacy](privacy.html)
 
 ### Formal Assignments
 1. [Annotated Bibliography](bibliography.html)
