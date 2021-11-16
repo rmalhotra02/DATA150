@@ -15,7 +15,7 @@
 12. Nov. 4th - Class Essay [Data Science Topics](topics.html)
 13. Nov. 9th - Class Essay [Data and Privacy](privacy.html)
 14. Nov. 11th - Class Essay [Data Science and COVID](covid.html)
-15. Nov. 16th - Class Essay [Data Science Behind Self-Driving Cars](self-driving.html)
+15. Nov. 16th - Class Essay [Data Science Behind Self-Driving Cars](cars.html)
 
 ### Formal Assignments
 1. [Annotated Bibliography](bibliography.html)
