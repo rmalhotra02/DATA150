@@ -1,3 +1,4 @@
+<p align="center">
 ## Methodological Investigation: Poverty Assessment and Analysis in Africa
 #### Rhea Malhotra
 #### Professor. Brewer
