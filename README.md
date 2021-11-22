@@ -20,4 +20,5 @@
 ### Formal Assignments
 1. [Annotated Bibliography](bibliography.html)
 2. [Literature Review](literature_review.html)
+3. [Methodological Investigation](methods.html)
 
