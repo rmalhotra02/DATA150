@@ -22,4 +22,5 @@
 2. [Literature Review](literature_review.html)
 3. [Methodological Investigation](methods.html)
 4. [Presentation and Abstract](presentation.html)
+5. [Final Research Proposal](final.html)
 
